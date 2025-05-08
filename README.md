@@ -1,1 +1,2 @@
 # Built-in-Function-Python-Training-Code
+This notebook, titled **"Built-in Functions Workshop 2023"**, explores Python's core built-in functions in a hands-on and beginner-friendly format. It includes practical examples of commonly used functions such as `print()`, `len()`, `range()`, `type()`, `input()`, `sum()`, and many others. The goal of this notebook is to help learners understand how Python's built-in capabilities can simplify common programming tasks and enhance code efficiency.
